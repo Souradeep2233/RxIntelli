@@ -6,7 +6,7 @@
 
 ## **🌍 The Problems We Try to Solve**
 
-* While exploring existing healthcare tools, we noticed there’s still **no proper chatbot or system** that can truly understand and retrieve information from prescriptions.
+While exploring existing healthcare tools, we noticed there’s still **no proper chatbot or system** that can truly understand and retrieve information from prescriptions.
 
 * Medical prescriptions are **handwritten, messy, and hard to read.**
 
