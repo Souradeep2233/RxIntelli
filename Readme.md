@@ -9,8 +9,8 @@
 ![alt text](image.png)
 # Retrive Information from any Prescription:
 ![alt text](image-2.png)
-
-## **🌍 The Problem**
+Even after uploading 3 prescriptions , it can understand every semantic information of every prescription and retrives intelligently.
+## **🌍 The Problems We Try to Solve**
 
 * Medical prescriptions are handwritten, messy, and hard to read.
 
@@ -84,7 +84,38 @@ LoopCare makes medical data:
 | 🔐 Data Layer | Local FAISS Index / Persistent DB Ready |
 
 ---
+## **🚀 How to Run Locally**
 
+Follow these steps to get the application up and running on your machine.
+
+1. Setup Your Environment
+
+    First, it's highly recommended to create a virtual environment to keep your project dependencies separate.
+
+2. Create a new virtual environment:
+
+    * conda create -n my_env python=3.10
+
+3. Activate the environment (on macOS/Linux):
+
+    * conda activate my_env
+
+4. Install all packages from the requirements file:
+    
+    * pip install -r requirements.txt
+
+    Visit the Official PyTorch Website to find the correct command for your system (e.g., pip3 install torch torchvision torchaudio).
+
+5. Run the App!
+
+    Once everything is installed, use Streamlit to launch the app.
+
+    Make sure you are in the project's root directory:
+
+    * streamlit run app3.py
+
+
+Your browser should automatically open to the application's local address, or manually give the port address!
 ## **❤️ Why LoopCare Wins**
 
 * Real healthcare impact — automates messy, daily workflows.
