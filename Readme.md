@@ -17,14 +17,6 @@ While exploring existing healthcare tools, we noticed there’s still **no prope
 * **Semantic search** over prescriptions is almost impossible today.
 
 ---
-# Customer Friendly UI
-![alt text](image-1.png)
-# Semantic Understanding: 
-![alt text](image.png)
-# Retrive Information from any Prescription:
-![alt text](image-2.png)
-Even after uploading 3 prescriptions , it can understand every semantic information of every prescription and retrives intelligently.
----
 
 ## **💡 The Vision**
 
@@ -36,6 +28,14 @@ LoopCare makes medical data:
  ✅ Understandable  
  ✅ Accessible
 
+---
+# Customer Friendly UI
+![alt text](image-1.png)
+# Semantic Understanding: 
+![alt text](image.png)
+# Retrive Information from any Prescription:
+![alt text](image-2.png)
+Even after uploading 3 prescriptions , it can understand every semantic information of every prescription and retrives intelligently.
 ---
 
 ## **⚙️ The Flow**
