@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+bitsandbytes
+accelerate
+Pillow
+huggingface-hub
+uuid
+numpy
+sentence-transformers
+faiss-gpu
