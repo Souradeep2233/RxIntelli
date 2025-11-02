@@ -3,6 +3,20 @@
 ### ***Your Smart AI Prescription Logger & Intelli Health Search***
 * Powered By FAISS , Groq , Pali Gemma Architecture
 ---
+
+## **🌍 The Problems We Try to Solve**
+
+* While exploring existing healthcare tools, we noticed there’s still **no proper chatbot or system** that can truly understand and retrieve information from prescriptions.
+
+* Medical prescriptions are **handwritten, messy, and hard to read.**
+
+* **Tracking medicines, dosage, and history** is confusing and time-consuming.
+
+* **Doctors and patients** both waste time searching for past prescriptions.
+
+* **Semantic search** over prescriptions is almost impossible today.
+
+---
 # Customer Friendly UI
 ![alt text](image-1.png)
 # Semantic Understanding: 
@@ -10,15 +24,6 @@
 # Retrive Information from any Prescription:
 ![alt text](image-2.png)
 Even after uploading 3 prescriptions , it can understand every semantic information of every prescription and retrives intelligently.
-## **🌍 The Problems We Try to Solve**
-
-* Medical prescriptions are handwritten, messy, and hard to read.
-
-* Tracking medicines, dosage, and history is confusing.
-
-* Doctors and patients both waste time finding past prescriptions.  
-* Semantic Search over prescription becomes almost impossible.
-
 ---
 
 ## **💡 The Vision**
