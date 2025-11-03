@@ -56,8 +56,8 @@ class GroqLLM:
 # ==============================
 # 🩺 LOOPCARE CHATBOT SETUP
 # ==============================
-GROQ_API_KEY = "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"
-llm = GroqLLM(api_key=GROQ_API_KEY)
+
+llm = GroqLLM(api_key=None)
 conversation_log = []
 last_intent = None
 
